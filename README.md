@@ -1,7 +1,7 @@
 # Natural Language Processing in Japanese
 
 Morphological analysis plays a significant role in Japanese natural language processing tasks.
-This tutorial demonstrates how to successfully install, set up, and use Mecab, an open-source text segmentation library, and Japanese Wordnet, a large scale, freely available, semantic dictionary of Japanese at ease.
+This tutorial demonstrates how to successfully install, set up, and use Mecab, an open-source text segmentation library, and Japanese Wordnet, a large scale, freely available, semantic dictionary of Japanese with ease.
 
 - Introduction to Mecab!
   - Setup guide
